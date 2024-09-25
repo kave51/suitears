@@ -2,7 +2,7 @@
 
 <h3 align="center"><em>Production ready modules for Sui Move developers</em></h3>
 
-## Installationrr
+## Installationrrgf
 
 Add the following snippet in your `Move.toml`
 
