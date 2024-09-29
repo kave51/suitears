@@ -2,7 +2,7 @@
 
 <h3 align="center"><em>Production ready modules for Sui Move developers</em></h3>
 
-## Insg
+## Insghh
 
 Add the following snippet in your `Move.toml`
 
